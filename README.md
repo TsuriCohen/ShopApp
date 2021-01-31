@@ -1,5 +1,5 @@
 # Shop app -MVC-
-this is a full shop web app, ready for generic use.
+this is a full shop web app, ready for a generic use.
 
 * Authentication (sign in logic, with email confirmation, and log in logic).
 * Hashed passwords logic (bcryptjs salt). + reset password logic, with email confirmation.
