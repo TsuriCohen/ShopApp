@@ -8,6 +8,17 @@ this is a full shop web app, ready for generic use.
 * Cart page for current curt and set order. (delete product from cart button is available).
 * Orders page, shows all the user's previous orders.
 
+### Screenshots:
+* [sign in](https://i.ibb.co/FgsGkr4/signup.jpg)
+* [log in](https://i.ibb.co/NWt0fVH/signin.jpg)
+* [reset password email](https://i.ibb.co/5Tyw76L/passresetmail.jpg)
+* [shop page - pagination](https://i.ibb.co/B3MDZQr/shop.jpg)
+* [cart](https://i.ibb.co/wLmBF2F/cart.jpg)
+* [buy](https://i.ibb.co/jf2fQrK/OrderNow.jpg)
+* [payment page](https://i.ibb.co/sJ6cR0h/paypage.jpg)
+* [add product](https://i.ibb.co/L134rcK/add-Product.jpg)
+* [admin products](https://i.ibb.co/JKZ6W7b/Admin-Products.jpg)
+
 ## Dependencies:
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
